@@ -1,5 +1,9 @@
 # Global Superstore Sales Performance Dashboard
 
+## Dashboard Preview
+
+! [DashboardOverview] (Images/dashboard_overview.png)
+
 ## Project Overview
 
 This project analyzes 51,290 global retail transactions from the Global Superstore dataset using Python, SQL, SQLite, and Power BI.
